@@ -18,7 +18,7 @@ class Main {
     String color = "";
     
     people.add(new Person("Andrew","23","red"));
-    people.add(new Person("A"87","pink"));
+    people.add(new Person("A","87","pink"));
     people.add(new Person("B","13","yellow"));
     people.add(new Person("C","55","black"));
     people.add(new Person("D","4",green));
